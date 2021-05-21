@@ -2,14 +2,10 @@ owner: mpiot
 repo: status-avirontours
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: My AvironTours
+    url: https://my.avirontours.fr
+  - name: Aviron Tours Métropole
+    url: https://www.aviron-tours-metropole.com
 
 status-website:
   cname: status.avirontours.fr
