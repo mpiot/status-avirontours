@@ -10,6 +10,7 @@ sites:
 status-website:
   cname: status.avirontours.fr
   logoUrl: https://raw.githubusercontent.com/mpiot/avirontours/develop/assets/images/logo_colored.svg
+  title: Status
   navbar:
     - title: Status
       href: /
