@@ -22,19 +22,19 @@
     "url": "https://www.aviron-tours-metropole.com",
     "icon": "https://favicons.githubusercontent.com/www.aviron-tours-metropole.com",
     "slug": "aviron-tours-metropole",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 484,
-    "timeDay": 629,
-    "timeWeek": 520,
+    "timeDay": 587,
+    "timeWeek": 518,
     "timeMonth": 480,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2021-08-02": 0
+      "2021-08-02": 33
     }
   }
 ]
