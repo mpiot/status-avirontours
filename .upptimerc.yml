@@ -2,8 +2,8 @@ owner: mpiot
 repo: status-avirontours
 
 sites:
-  - name: My AvironTours
-    url: https://my.avirontours.fr
+  - name: Aviron Tours
+    url: https://avirontours.fr
   - name: Aviron Tours Métropole
     url: https://www.aviron-tours-metropole.com
 
