@@ -1,20 +1,20 @@
 [
   {
-    "name": "My AvironTours",
-    "url": "https://my.avirontours.fr",
-    "icon": "https://favicons.githubusercontent.com/my.avirontours.fr",
-    "slug": "my-aviron-tours",
+    "name": "Aviron Tours",
+    "url": "https://avirontours.fr",
+    "icon": "https://favicons.githubusercontent.com/avirontours.fr",
+    "slug": "aviron-tours",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 1561,
-    "timeWeek": 1802,
-    "timeMonth": 1063,
-    "timeYear": 855,
+    "time": 560,
+    "timeDay": 560,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 506,
-    "timeDay": 492,
-    "timeWeek": 481,
-    "timeMonth": 571,
-    "timeYear": 506,
+    "time": 502,
+    "timeDay": 295,
+    "timeWeek": 433,
+    "timeMonth": 557,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2021-08-02": 33
     }
