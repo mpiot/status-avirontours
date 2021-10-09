@@ -4,7 +4,7 @@
     "url": "https://avirontours.fr",
     "icon": "https://favicons.githubusercontent.com/avirontours.fr",
     "slug": "aviron-tours",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 799,
     "timeMonth": 757,
     "timeYear": 780,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-09": 0
+    }
   },
   {
     "name": "Aviron Tours Métropole",
