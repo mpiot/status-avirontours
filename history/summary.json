@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/avirontours.fr",
     "slug": "aviron-tours",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 671,
-    "timeWeek": 799,
-    "timeMonth": 757,
-    "timeYear": 780,
+    "uptime": "99.50%",
+    "uptimeDay": "72.98%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.50%",
+    "time": 778,
+    "timeDay": 640,
+    "timeWeek": 752,
+    "timeMonth": 750,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2021-10-09": 0
+      "2021-10-10": 59,
+      "2021-10-09": 330
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 472,
-    "timeDay": 577,
-    "timeWeek": 494,
-    "timeMonth": 390,
+    "timeDay": 497,
+    "timeWeek": 487,
+    "timeMonth": 392,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2021-08-02": 33
